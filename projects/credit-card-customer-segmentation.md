@@ -9,7 +9,7 @@ title: Credit Card Customer Segmentation
 
 [Back to portfolio](../)
 
-[Browse source code and result tables](https://github.com/0zz0ruby/0zz0ruby.github.io/tree/main/project-files/credit-card-customer-segmentation)
+[Browse source code and result tables](https://github.com/0zz0ruby/credit-card-customer-segmentation)
 
 ## Project overview
 

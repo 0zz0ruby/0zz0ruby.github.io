@@ -32,7 +32,8 @@ four customer segments were selected by balancing internal clustering metrics
 with business interpretability; 240 simulation runs evaluated robustness across
 sample sizes and noise levels.
 
-[View project details](projects/credit-card-customer-segmentation.html)
+[View project details](projects/credit-card-customer-segmentation.html) ·
+[Source code](https://github.com/0zz0ruby/credit-card-customer-segmentation)
 
 ### Survival Analysis
 
