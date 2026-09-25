@@ -1,0 +1,17 @@
+.DS_Store
+Thumbs.db
+__pycache__/
+*.py[cod]
+.venv/
+project-files/credit-card-customer-segmentation/data/*.csv
+project-files/credit-card-customer-segmentation/data/processed/
+project-files/credit-card-customer-segmentation/outputs/figures/
+project-files/credit-card-customer-segmentation/outputs/summaries/
+project-files/credit-card-customer-segmentation/outputs/tables/*
+!project-files/credit-card-customer-segmentation/outputs/tables/pca_explained_variance.csv
+!project-files/credit-card-customer-segmentation/outputs/tables/clustering_model_selection.csv
+!project-files/credit-card-customer-segmentation/outputs/tables/cluster_size_summary.csv
+!project-files/credit-card-customer-segmentation/outputs/tables/cluster_profile_original_scale.csv
+!project-files/credit-card-customer-segmentation/outputs/tables/group_difference_tests.csv
+!project-files/credit-card-customer-segmentation/outputs/tables/lda_validation_metrics.csv
+!project-files/credit-card-customer-segmentation/outputs/tables/simulation_results_summary.csv

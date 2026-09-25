@@ -1,15 +1,15 @@
-# 0zz0ruby.github.io
-# Welcome to my blog
+# Lyc's Data Analytics Portfolio
 
-Hi, I’m Lyc.
+This repository powers my GitHub Pages portfolio at
+[0zz0ruby.github.io](https://0zz0ruby.github.io).
 
-This is my personal website built with GitHub Pages.
+The site highlights selected projects in statistical analysis, customer
+analytics, and applied machine learning.
 
-## About Me
-I am a student learning data analysis and software development.
+## Featured projects
 
-## My Blog
-## Task (2) Report
+- Credit Card Customer Segmentation and Marketing Strategy Analysis
+- Survival Analysis
 
-[View my Task (2) PDF report](./Project1_Q2(2)_survival_analysis.pdf)
-More posts will be added here soon.
+Visit the portfolio website for project summaries, methods, results, and
+supporting materials.

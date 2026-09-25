@@ -1,0 +1,5 @@
+metric,value
+test_accuracy,0.9322160148975791
+cross_validation_folds,5.0
+cross_validation_mean_accuracy,0.9362011173184358
+cross_validation_std,0.008052448154961877
