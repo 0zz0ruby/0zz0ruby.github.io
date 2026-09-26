@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Lyc | Data Analytics Portfolio
+title: Lyc | Data & AI Portfolio
 ---
 
 # Hi, I'm Lyc

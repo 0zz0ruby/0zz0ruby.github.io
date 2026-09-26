@@ -1,4 +1,4 @@
-# Lyc's Data Analytics Portfolio
+# Lyc's Data & AI Portfolio
 
 This repository powers my GitHub Pages portfolio at
 [0zz0ruby.github.io](https://0zz0ruby.github.io).
