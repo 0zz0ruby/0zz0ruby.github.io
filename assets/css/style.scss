@@ -1,0 +1,16 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+@media screen and (max-width: 720px) {
+  section {
+    min-width: 0;
+  }
+
+  section table {
+    display: block;
+    max-width: 100%;
+    overflow-x: auto;
+  }
+}
