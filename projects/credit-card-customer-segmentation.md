@@ -5,7 +5,9 @@ title: Credit Card Customer Segmentation
 
 # Credit Card Customer Segmentation and Marketing Strategy Analysis
 
-**Personal project | Python, Pandas, NumPy, Scikit-learn, SciPy, Matplotlib, Seaborn**
+**Personal project**
+
+Python, Pandas, NumPy, Scikit-learn, SciPy, Matplotlib, Seaborn
 
 [Back to portfolio](../)
 

@@ -5,7 +5,9 @@ title: CartPole Reinforcement Learning and Robustness
 
 # CartPole Reinforcement Learning and Robustness
 
-**Three-member team project | Python, PyTorch, Gymnasium, NumPy, Matplotlib**
+**Three-member team project**
+
+Python, PyTorch, Gymnasium, NumPy, Matplotlib
 
 [Back to portfolio](../)
 
