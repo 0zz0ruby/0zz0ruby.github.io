@@ -11,7 +11,7 @@ lang: zh-CN
 目前准备申请香港、新加坡的硕士项目，同时寻找实习机会。项目涵盖数据分析、机器学习与数据计算系统，注重实验复现、结果验证，以及个人与团队贡献的区分。
 
 [English](./) · [GitHub](https://github.com/0zz0ruby) ·
-[邮箱](mailto:lyclyc555@126.com)
+[Gmail](mailto:rubyli2525@gmail.com) · [邮箱](mailto:lyclyc555@126.com)
 
 ## 项目
 
@@ -62,5 +62,7 @@ lang: zh-CN
 [代码与复现](https://github.com/0zz0ruby/credit-card-customer-segmentation)
 
 ## 联系
+
+Gmail：[rubyli2525@gmail.com](mailto:rubyli2525@gmail.com)
 
 邮箱：[lyclyc555@126.com](mailto:lyclyc555@126.com)

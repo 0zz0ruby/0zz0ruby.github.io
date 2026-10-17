@@ -15,7 +15,7 @@ I am preparing for Master's study in Hong Kong and Singapore and exploring
 internship opportunities.
 
 [中文简介](zh.html) · [GitHub](https://github.com/0zz0ruby) ·
-[Email](mailto:lyclyc555@126.com)
+[Gmail](mailto:rubyli2525@gmail.com) · [Email](mailto:lyclyc555@126.com)
 
 ## Technical skills
 
@@ -105,5 +105,6 @@ sample sizes and noise levels.
 
 ## Contact
 
+- Gmail: [rubyli2525@gmail.com](mailto:rubyli2525@gmail.com)
 - Email: [lyclyc555@126.com](mailto:lyclyc555@126.com)
 - GitHub: [@0zz0ruby](https://github.com/0zz0ruby)
